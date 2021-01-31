@@ -63,10 +63,10 @@ ___
 
 ## 👨🏻‍🚀 Sobre mim
 
-  <a href="https://app.rocketseat.com.br/me/lorison-gilles-02226">
+  <a href="https://app.rocketseat.com.br/me/lorison-gilles">
   <img style="border-radius: 50%; widht= 10px" width= "100px;" src="https://avatars3.githubusercontent.com/u/54437398?s=460&u=72d88fd3a7e3a95041d7771f3a5e6ad7f33b8740&v=4"  alt="Gilles"/>
   <br />
-  <sub><b>Lorison Gilles</b></sub></a> <a href="https://app.rocketseat.com.br/me/lorison-gilles-02226/" title="Rocketseat"></a>
+  <sub><b>Lorison Gilles</b></sub></a> <a href="https://app.rocketseat.com.br/me/lorison-gilles/" title="Rocketseat"></a>
 
  <br>
  <br>
