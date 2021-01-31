@@ -5,11 +5,12 @@
 <h4 align="center">🚧~Em construção🚧</h4>
 
 <img src="./assets/dev.finances.png" />
+<img src="./assets/dev.finances1.png" />
 
 ___
 
 ## 💬 Sobre o projeto
-Dev.Finances - É um projeto feito para adquirir conhecimentos ou atualiza-los em HTML, CSS e JS.
+Dev.Finances - É um projeto feito para adquirir conhecimentos ou atualiza-los em HTML, CSS e JS, com modo dark inserido.
 
 Projeto desenvolvido durante a **MARATONA_DISCOVERY** oferecida pela [Rocketseat](https://app.rocketseat.com.br/).
 
