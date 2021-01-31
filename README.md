@@ -64,7 +64,7 @@ ___
 ## 👨🏻‍🚀 Sobre mim
 
   <a href="https://app.rocketseat.com.br/me/lorison-gilles-02226">
-  <img style="border-radius: 50%;" width= "100px;" src="https://avatars3.githubusercontent.com/u/54437398?s=460&u=72d88fd3a7e3a95041d7771f3a5e6ad7f33b8740&v=4"  alt="Gilles"/>
+  <img style="border-radius: 50%; widht= 10px" width= "100px;" src="https://avatars3.githubusercontent.com/u/54437398?s=460&u=72d88fd3a7e3a95041d7771f3a5e6ad7f33b8740&v=4"  alt="Gilles"/>
   <br />
   <sub><b>Lorison Gilles</b></sub></a> <a href="https://app.rocketseat.com.br/me/lorison-gilles-02226/" title="Rocketseat"></a>
 
@@ -87,7 +87,7 @@ Valew[Rocketseat e Mark Brito](https://www.rocketseat.com.br) por estar ajudando
 Um grande obrigado a esse cara que está sempre ajudando os Juninho e os estag... kkkk (brincadeira) Ajudando a toda comunidade dev do Brasil e do Mundo...
 
 <table>
-  <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/6643122?s=460&u=1e9e1f04b76fb5374e6a041f5e41dce83f3b5d92&v=4" width="100px;" alt=""/><br /><sub><b>Mayk Brito</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat"></a></td>
+  <td align="center"><a href="https://app.rocketseat.com.br/me/maykbrito"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/6643122?s=460&u=1e9e1f04b76fb5374e6a041f5e41dce83f3b5d92&v=4" width="100px;" alt=""/><br /><sub><b>Mayk Brito</b></sub></a><br /><a href="https://app.rocketseat.com.br/me/maykbrito" title="Rocketseat"></a></td>
 </table>
 <br>
 <br>
